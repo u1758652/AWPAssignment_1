@@ -20,3 +20,8 @@ Auth::routes();
 
 Route::get('/home', [\App\Http\Controllers\HomeController::class, 'index'])->name('home');
 
+
+Route::get("/foods", 'App\Http\Controllers\FoodController@index');
+Route::get("/foods/{food}", 'App\Http\Controllers\FoodController@show');
+Route::get("/foods/{food}/edit", 'App\Http\Controllers\FoodController@edit');
+Route::get("/foods/{food}/update", 'App\Http\Controllers\FoodController@update');

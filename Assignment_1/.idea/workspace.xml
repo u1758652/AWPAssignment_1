@@ -1,13 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="401cbb19-7fa0-41b3-9602-8ca321276d74" name="Default Changelist" comment="" />
+    <list default="true" id="401cbb19-7fa0-41b3-9602-8ca321276d74" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/resources/views/foods/index.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/foods/show.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution />
   </component>
@@ -137,11 +142,16 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../dog-show-master" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Dmitry\Desktop\AdvancedWebProgramming\Assignment_1\resources\views\foods" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="phpunit.xml" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
@@ -157,11 +167,37 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1601657487627</updated>
-      <workItem from="1601657488667" duration="1072000" />
+      <workItem from="1601657488667" duration="2235000" />
+      <workItem from="1601985833934" duration="8841000" />
+      <workItem from="1602068598208" duration="10443000" />
+      <workItem from="1602091597512" duration="2646000" />
+      <workItem from="1602153407057" duration="2819000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1179" y="263" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1602076765553">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1179" y="263" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602076765553" />
+    <state x="901" y="13" key="CommitChangelistDialog2" timestamp="1601993707185">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="901" y="13" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1601993707185" />
+    <state x="1167" y="219" key="FileChooserDialogImpl" timestamp="1602089873638">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1167" y="219" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1602089873638" />
+    <state x="1013" y="189" key="NewPhpClassDialog" timestamp="1601993866007">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1013" y="189" key="NewPhpClassDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1601993866007" />
+    <state x="1230" y="429" key="NewPhpFileDialog" timestamp="1601990505459">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1230" y="429" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1601990505459" />
   </component>
 </project>
